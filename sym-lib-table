@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GW_RAM")(type "KiCad")(uri "${KIPRJMOD}/gw_parts/GW_RAM.kicad_sym")(options "")(descr ""))
+)
