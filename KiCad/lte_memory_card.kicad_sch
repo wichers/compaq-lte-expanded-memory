@@ -2638,7 +2638,7 @@
 		)
 		(uuid b8f1d3ee-df86-4c96-b0a0-27ddc16e572e)
 	)
-	(text "Not sure if these are tied to +5V or GND.\n\nFor now I believe CFG_1 enables RAS2 and RAS4 and R2 enables RAS1 and RAS3."
+	(text "Not sure if these are tied to +5V or GND, \nor it could be a combination of tying it high or low.\n\nFor now I believe R1 enables RAS2 and RAS4 and R2 enables RAS1 and RAS3."
 		(exclude_from_sim no)
 		(at 253.746 219.964 0)
 		(effects
